@@ -1,1 +1,1 @@
-&copy; <script>new Date().getFullYear()>&&document.write(new Date().getFullYear());</script> NAME OF YOUR COMPANY
+&copy; <script>new Date().getFullYear()>1111&&document.write(new Date().getFullYear());</script>
